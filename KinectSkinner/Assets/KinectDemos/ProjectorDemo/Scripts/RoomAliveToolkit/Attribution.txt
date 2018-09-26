@@ -1,0 +1,2 @@
+The ProjectorDemo-scene includes scripts and requires calibration tool from the RoomAlive Toolkit by Prof. Andy Wilson and his team at Microsoft Research (https://github.com/Microsoft/RoomAliveToolkit)  
+That portion of the software is copyright (c) 2017 by Microsoft Research.
