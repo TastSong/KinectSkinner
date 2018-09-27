@@ -8,5 +8,5 @@
 * 选择`Assets/NeoLowMan/Neo`。在其`Rig-tab`上禁用`Optimize game objects`设置，并确保其装备为`Humanoid`。
 * 将`K2Examples/KinectScripts/AvatarController.cs`添加到场景中的`Neo（Skinner Source）` 游戏对象，并启用其`Mirrored Movement`和`Vertical Movement`设置。确保对象的变换旋转为`（0,180,0）`。
 * - [ ]  [可选]如果您想要阻止相机自己的动画移动，请禁用场景中`Camera Tracker`游戏物体的`Rotation`、`Distance`和`Shake` 的父游戏对象的脚本组件。
-* 运行场景并开始在传感器前移动，以查看效果。
+* :rocket:运行场景并开始在传感器前移动，以查看效果。
 * 尝试通过更改场景中`Skinner Renderers`游戏物体的子物体，来体验其他`skinner`渲染器。
