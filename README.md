@@ -10,3 +10,12 @@
 * - [ ]  [可选]如果您想要阻止相机自己的动画移动，请禁用场景中`Camera Tracker`游戏物体的`Rotation`、`Distance`和`Shake` 的父游戏对象的脚本组件。
 * :rocket:运行场景并开始在传感器前移动，以查看效果。
 * 尝试通过更改场景中`Skinner Renderers`游戏物体的子物体，来体验其他`skinner`渲染器。
+
+## 效果预览
+![](https://github.com/TastSong/KinectSkinner/edit/master/GIF/0.gif) 
+
+![](https://github.com/TastSong/KinectSkinner/edit/master/GIF/1.gif) 
+
+![](https://github.com/TastSong/KinectSkinner/edit/master/GIF/2.gif) 
+
+![](https://github.com/TastSong/KinectSkinner/edit/master/GIF/3.gif) 
