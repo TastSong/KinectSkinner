@@ -12,10 +12,10 @@
 * 尝试通过更改场景中`Skinner Renderers`游戏物体的子物体，来体验其他`skinner`渲染器。
 
 ## 效果预览
-![](https://github.com/TastSong/KinectSkinner/edit/master/GIF/0.gif) 
+![](https://github.com/TastSong/KinectSkinner/blob/master/GIF/0.gif) 
 
-![](https://github.com/TastSong/KinectSkinner/edit/master/GIF/1.gif) 
+![](https://github.com/TastSong/KinectSkinner/blob/master/GIF/1.gif) 
 
-![](https://github.com/TastSong/KinectSkinner/edit/master/GIF/2.gif) 
+![](https://github.com/TastSong/KinectSkinner/blob/master/GIF/2.gif) 
 
-![](https://github.com/TastSong/KinectSkinner/edit/master/GIF/3.gif) 
+![](https://github.com/TastSong/KinectSkinner/blob/master/GIF/3.gif) 
