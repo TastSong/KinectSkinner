@@ -13,9 +13,4 @@
 
 ## 效果预览
 ![](https://github.com/TastSong/KinectSkinner/blob/master/GIF/0.gif) 
-
-![](https://github.com/TastSong/KinectSkinner/blob/master/GIF/1.gif) 
-
-![](https://github.com/TastSong/KinectSkinner/blob/master/GIF/2.gif) 
-
-![](https://github.com/TastSong/KinectSkinner/blob/master/GIF/3.gif) 
+ 
