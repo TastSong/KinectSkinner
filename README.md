@@ -12,5 +12,5 @@
 * 尝试通过更改场景中`Skinner Renderers`游戏物体的子物体，来体验其他`skinner`渲染器。
 
 ## 效果预览
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+![](https://github.com/TastSong/KinectSkinner/blob/master/GIF/0.gif)  
  
